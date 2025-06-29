@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Pranjnay Bhardwaj
 
-🚀 Data Engineer and ML/AI Enthusiast with a passion for building scalable data pipelines and leveraging machine learning models or LLMs to gain insights, especially in the financial domain.
+🚀 Software & Data Engineer and ML/AI Enthusiast with a passion for building scalable data pipelines and leveraging machine learning models or LLMs to gain insights, especially in the financial domain.
 
 💻 **Tech Stack**  
-Python | SQL | PySpark | AWS | FastAPI | Snowflake | 
+Python | SQL | PySpark | AWS | FastAPI | Snowflake | CPP
 
 🔭 I’m currently working on:  
 A loan risk prediction platform using XGBoost on AWS
