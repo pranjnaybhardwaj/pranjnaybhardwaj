@@ -6,7 +6,7 @@
 Python | SQL | PySpark | AWS | FastAPI | Snowflake | CPP
 
 🔭 I’m currently working on:  
-A loan risk prediction platform using XGBoost on AWS
+A loan risk prediction product
 
 📫 Reach me at:  
 [LinkedIn](https://www.linkedin.com/in/pranjnay-bhardwaj-716631192/) | pranjnaybhardwaj@gmail.com
